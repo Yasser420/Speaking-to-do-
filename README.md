@@ -1,1 +1,1 @@
-- This mobile app allows users to set alarms and reminders using simple voice commands, adding some words
+- ---------This mobile app allows users to set alarms and reminders using simple voice commands, adding some words
